@@ -5,6 +5,14 @@ A Machine Learning project that predicts whether an individual is likely to have
 
 The project combines Exploratory Data Analysis (EDA), data preprocessing, machine learning model development, and an interactive web application built using Streamlit.
 
+
+## 🚀 Live Demo
+
+**Try the application here:** [Diabetes Prediction App](https://diabetes-prediction-hrq5eyhsgmynzcy8gret4n.streamlit.app/)
+
+Explore the application, enter patient health information, and view the prediction results.
+
+
 ## 📌 Project Overview
 
 Diabetes is a chronic medical condition that affects how the body regulates blood glucose levels. Early identification of potential diabetes cases can help individuals seek appropriate medical evaluation.
