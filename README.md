@@ -12,6 +12,13 @@ The project combines Exploratory Data Analysis (EDA), data preprocessing, machin
 
 Explore the application, enter patient health information, and view the prediction results.
 
+---
+
+## 📸 Application Screenshots
+
+![Diabetes Predictor](diabetes-predictor-Screenshot.png)
+
+---
 
 ## 📌 Project Overview
 
