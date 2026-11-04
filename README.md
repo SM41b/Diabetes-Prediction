@@ -14,7 +14,7 @@ Explore the application, enter patient health information, and view the predicti
 
 ---
 
-## 📸 Application Screenshots
+## 📸 Application Screenshot
 
 ![Diabetes Predictor](diabetes-predictor-ss.png)
 
