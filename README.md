@@ -16,7 +16,7 @@ Explore the application, enter patient health information, and view the predicti
 
 ## 📸 Application Screenshots
 
-![Diabetes Predictor](D:\Download-(D)\Data Analyst Projects\diabetes prediction\diabetes-predictor-ss.png)
+![Diabetes Predictor](diabetes-predictor-ss.png)
 
 ---
 
